@@ -1,0 +1,21 @@
+.categoryWrapper{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 30px 100px;
+    margin-top: 50px;
+    height: 20px;
+}
+.cat{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50%;
+}
+.catitem{
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    height: 250px;
+    align-items: center;
+}
