@@ -13,7 +13,7 @@ const NavBar = () => {
             <ul className={style.list}>
                     <li className={style.topListItem}><Link className={style.link} to="/">Home</Link> </li>
                     <li className={style.topListItem}><Link className={style.link} to="/">Blogs</Link></li>
-                    <li className={style.topListItem}><Link className={style.link} to="/contact">Product</Link></li>
+                    <li className={style.topListItem}><Link className={style.link} to="/product">Product</Link></li>
                     <li className={style.topListItem}><Link className={style.link} to="/write">About</Link></li>
             </ul>
         </div>
